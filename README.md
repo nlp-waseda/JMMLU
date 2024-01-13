@@ -77,6 +77,17 @@ Number of questions per task between 95 and 150.
 | 概念物理学 | conceptual_physics | 150 |
 | コンピュータセキュリティ | computer_security | 99 |
 
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 # 謝辞
 
 本研究における翻訳に際し、理化学研究所からのご支援に深く感謝申し上げます。また、株式会社Stepには日本史及び社会史の内容提供について、V-IST学習塾には熟語、公民、日本地理の提供について、心より御礼申し上げます。これらの支援がなければ、本研究の実施は困難であったことを認識し、関係各所のご協力に厚く謝意を表するものである。
