@@ -2,7 +2,7 @@
 日本語マルチタスク言語理解ベンチマーク Japanese Multitask Language Understanding Benchmark
 
 ## 正式公開ではないためご注意ください
-## ATTENTION: Not a formal version. May be changed in the future
+## ATTENTION: Preview version. May be changed in the future
 
 JMMLUはMMLUの内容を日本語に翻訳したもの及び日本独自の文化的背景に基づく内容によって構成される。
 
