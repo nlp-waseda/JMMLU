@@ -78,6 +78,7 @@ Number of questions per task between 95 and 150.
 | 概念物理学 | conceptual_physics | 150 |
 | コンピュータセキュリティ | computer_security | 99 |
 
+なお、日本史、世界史の著作権はステップ株式会社が保有するものであり、言語モデルの研究・評価以外の商業利用は禁止されています
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
