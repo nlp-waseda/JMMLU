@@ -2,7 +2,7 @@
 Japanese Multitask Language Understanding Benchmark
 
 
-[日本語🇯🇵](README.md)　| English🇬🇧
+[日本語🇯🇵](README.md)　| English🇬🇧 | [中文🇨🇳](readme_ch.md)
 
 ## ATTENTION: Preview version. May be changed in the future
 
