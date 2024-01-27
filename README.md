@@ -1,7 +1,7 @@
 # JMMLU v0.9
 日本語マルチタスク言語理解ベンチマーク Japanese Multitask Language Understanding Benchmark
 
-日本語🇯🇵 | [English🇬🇧](readme_en.md)
+日本語🇯🇵 | [English🇬🇧](readme_en.md) | [中文🇨🇳](readme_ch.md)
 
 ## 正式公開ではないためご注意ください
 
