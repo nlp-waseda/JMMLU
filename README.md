@@ -1,22 +1,15 @@
 # JMMLU v0.9
 日本語マルチタスク言語理解ベンチマーク Japanese Multitask Language Understanding Benchmark
 
+日本語🇯🇵 | [English🇬🇧](readme_en.md)
+
 ## 正式公開ではないためご注意ください
-## ATTENTION: Preview version. May be changed in the future
 
 JMMLUはMMLUの内容を日本語に翻訳したもの及び日本独自の文化的背景に基づく内容によって構成される。
 
 MMLUの57タスクのそれぞれから最大150問を選択し、まず日本語に機械翻訳する。次に、翻訳者が機械翻訳結果を確認することによって、翻訳しにくい、もしくは、日本の文化と無関係または矛盾する問題やタスクを削除した。
 
 残りの問題については自然な日本語になるように修正した。一方、追加したタスクは、欧米視点のMMLUにない公民、日本史などの学校教科に基づく問題である。
-
-jaMMLU consists of two parts. 
-
-Translation of MMLU: Professional translators first eliminated contents difficult to translate correctly then translated English into Japanese. Some questions or tasks that were clearly unrelated or conflicted with the Japanese cultural background are removed. 
-
-Japanese school curricula questions: Mitigation for the western culture bias in MMLU. Contains Japanese, Japanese Civics, History and Japanese Geography.
-
-Number of questions per task between 95 and 150.
 
 
 | タスク名 | 英語名 | 件数 |
@@ -81,10 +74,6 @@ Number of questions per task between 95 and 150.
 なお、日本史、世界史の著作権はステップ株式会社が保有するものであり、言語モデルの研究・評価以外の商業利用は禁止されています。
 
 熟語、公民、日本地理の著作権はVIST学習塾が保有するものであり、ライセンスはCC BY-NC-ND 4.0です。
-
-The copyrights for Japanese and World History belongs to STEP Corporation. Commercial use other than for research and evaluation of language models is prohibited.
-
-The copyrights for japanese_idioms, japansese_civics, and japanese_geography belongs to New Style Cram School VIST and are licensed under CC BY-NC-ND 4.0.
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
@@ -98,7 +87,6 @@ This work is licensed under a
 # 謝辞
 
 本研究における翻訳に際し、理化学研究所からのご支援に深く感謝申し上げます。また、株式会社Stepには日本史及び社会史の内容提供について、VIST学習塾には熟語、公民、日本地理の提供について、心より御礼申し上げます。これらの支援がなければ、本研究の実施は困難であったことを認識し、関係各所のご協力に厚く謝意を表するものである。
-We express our gratitude to the RIKEN for their support in the translation of MMLU. We also acknowledge the contributions from Step Corporation, who provided materials on Japanese and World History, and from New Style Cram School VIST, who supplied resources on japanese_idioms, japansese_civics, and japanese_geography.
 
 このベンチマークをご利用になられた方はこの論文をご引用ください
 ## 論文のbibtex
