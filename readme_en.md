@@ -3,6 +3,7 @@ Japanese Multitask Language Understanding Benchmark
 
 
 [日本語🇯🇵](README.md)　| English🇬🇧 | [中文🇨🇳](readme_ch.md)
+
 JMMLU is a four-choice question set consisting of a Japanese translation of a portion of the multitasking language comprehension benchmark MMLU (Translated questions) and a question based on a unique Japanese cultural context (Japanese questions). It is designed to assess performance in Japanese in large language models.
 
 For the translated questions, a maximum of 150 questions from each of the 57 MMLU tasks (subjects) were selected and first machine-translated into Japanese. Next, the translators checked the machine translation results and removed questions and tasks that were difficult to translate or irrelevant or inconsistent with Japanese culture. The remaining questions were modified to make the Japanese language more natural.
