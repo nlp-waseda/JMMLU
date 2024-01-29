@@ -1,23 +1,19 @@
-# JMMLU v0.9
+# JMMLU
 Japanese Multitask Language Understanding Benchmark
 
 
 [日本語🇯🇵](README.md)　| English🇬🇧 | [中文🇨🇳](readme_ch.md)
+JMMLU is a four-choice question set consisting of a Japanese translation of a portion of the multitasking language comprehension benchmark MMLU (Translated questions) and a question based on a unique Japanese cultural context (Japanese questions). It is designed to assess performance in Japanese in large language models.
 
-## ATTENTION: Preview version. May be changed in the future
+For the translated questions, a maximum of 150 questions from each of the 57 MMLU tasks (subjects) were selected and first machine-translated into Japanese. Next, the translators checked the machine translation results and removed questions and tasks that were difficult to translate or irrelevant or inconsistent with Japanese culture. The remaining questions were modified to make the Japanese language more natural.
 
+The Japanese questions are based on school subjects such as civics and Japanese history, and are manually created by Japanese.
 
-JMMLU consists of two parts. 
-
-Translation of MMLU: Professional translators first eliminated contents difficult to translate correctly then translated English into Japanese. Some questions or tasks that were clearly unrelated or conflicted with the Japanese cultural background are removed. 
-
-Japanese school curricula questions: Mitigation for the western culture bias in MMLU. Contains Japanese, Japanese Civics, History and Japanese Geography.
-
-Number of questions per task between 95 and 150.
+The JMMLU consists of 7,567 questions in the following 56 tasks (subjects).
 
 
-| Tasks | English Name | Number |
-|---|---|---|
+| Tasks | English Task Name | Number |
+|---|---|---:|
 | 公共関係 | public_relations | 109 |
 | 世界事実 | global_facts | 97 |
 | 電気工学 | electrical_engineering | 144 |
@@ -79,6 +75,7 @@ Number of questions per task between 95 and 150.
 The copyrights for Japanese and World History belongs to STEP Corporation. Commercial use other than for research and evaluation of language models is prohibited.
 
 The copyrights for japanese_idioms, japansese_civics, and japanese_geography belongs to New Style Cram School VIST and are licensed under CC BY-NC-ND 4.0.
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
@@ -92,6 +89,4 @@ This work is licensed under a
 # Acknowledge
 We express our gratitude to the RIKEN for their support in the translation of MMLU. We also acknowledge the contributions from Step Corporation, who provided materials on Japanese and World History, and from New Style Cram School VIST, who supplied resources on japanese_idioms, japansese_civics, and japanese_geography.
 
-If you used this benchmark, please cite this paper.
-## bibtex
 
