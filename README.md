@@ -73,6 +73,7 @@ JMMLUは以下の56タスク(科目)、7,567問からなる。
 なお、日本史、世界史の著作権はステップ株式会社が保有するものであり、言語モデルの研究・評価以外の商業利用は禁止されている。
 
 熟語、公民、日本地理の著作権はVIST学習塾が保有するものであり、ライセンスはCC BY-NC-ND 4.0である。
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
