@@ -4,16 +4,15 @@ Japanese Multitask Language Understanding Benchmark
 
 [日本語🇯🇵](README.md)　| English🇬🇧 | [中文🇨🇳](readme_ch.md)
 
-JMMLU is a four-choice question set consisting of a Japanese translation of a portion of the multitasking language comprehension benchmark MMLU (Translated questions) and a question based on a unique Japanese cultural context (Japanese questions). It is designed to assess performance in Japanese in large language models.
+JMMLU is a four-choice question set consisting of Japanese-translated questions of a portion of MMLU (Translated questions) and questions based on unique Japanese cultural context (Japanese questions). It is designed to assess the performance of large language models in Japanese.
 
-For the translated questions, a maximum of 150 questions from each of the 57 MMLU tasks (subjects) were selected and first machine-translated into Japanese. Next, the translators checked the machine translation results and removed questions and tasks that were difficult to translate or irrelevant or inconsistent with Japanese culture. The remaining questions were modified to make the Japanese language more natural.
+For the translated questions, a maximum of 150 questions from each of the 57 MMLU tasks (subjects) were selected and first machine-translated into Japanese. Next, the translators checked the machine translations and removed questions and tasks that were difficult to translate, irrelevant, or inconsistent with the Japanese culture. The remaining questions were modified to make them fluent.
 
-The Japanese questions are based on school subjects such as civics and Japanese history, and are manually created by Japanese.
+The Japanese questions are based on school subjects, such as Japanese civics and history, and are manually created by Japanese teachers.
 
 The JMMLU consists of 7,567 questions in the following 56 tasks (subjects).
 
-
-| Tasks | English Task Name | Number |
+| Japanese Task Name | English Task Name | Number |
 |---|---|---:|
 | 公共関係 | public_relations | 109 |
 | 世界事実 | global_facts | 97 |
