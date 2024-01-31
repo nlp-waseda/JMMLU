@@ -10,7 +10,7 @@ For the translated questions, a maximum of 150 questions from each of the 57 MML
 
 The Japanese questions are based on school subjects, such as Japanese civics and history, and are manually created by Japanese teachers.
 
-The JMMLU consists of 7,567 questions in the following 56 tasks (subjects).
+The JMMLU consists of 7,539 questions in the following 56 tasks (subjects).
 
 | Japanese Task Name | English Task Name | Number |
 |---|---|---:|
