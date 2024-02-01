@@ -16,7 +16,7 @@ JMMLUは、マルチタスク言語理解ベンチマークMMLUの一部を日�
 ```
 となる。
 
-JMMLUは以下の56タスク(科目)、7,539問からなる。そのうち、CC BY-SA 4.0 ライセンスの53タスク、7,100問は JMMLUフォルダに、CC BY-NC-ND 4.0 ライセンスの3タスク 439問はJMMLU_NC_NDフォルダにある。
+JMMLUは以下の56タスク(科目)、7,538問からなる。そのうち、CC BY-SA 4.0 ライセンスの53タスク、7,100問は JMMLUフォルダに、CC BY-NC-ND 4.0 ライセンスの3タスク 439問はJMMLU_NC_NDフォルダにある。
 
 | タスク名 | 英語タスク名 | 件数 |
 |---|---|---:|
@@ -27,7 +27,7 @@ JMMLUは以下の56タスク(科目)、7,539問からなる。そのうち、CC 
 | ビジネス倫理 | business_ethics | 98 |
 | 法理学 | jurisprudence | 107 |
 | 高校化学 | high_school_chemistry | 150 |
-| 大学物理 | college_physics | 101 |
+| 大学物理 | college_physics | 100 |
 | 専門心理学 | professional_psychology | 150 |
 | マーケティング | marketing | 150 |
 | 経営学 | management | 102 |
