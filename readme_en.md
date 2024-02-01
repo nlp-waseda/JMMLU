@@ -15,7 +15,7 @@ The format is the same as MMLU:
 Question, Choice A, Choice B, Choice C, Choice D, Answer
 ```
 
-The JMMLU consists of 7,539 questions in the following 56 tasks (subjects). There are 53 tasks and 7,100 questions in the JMMLU folder under the CC BY-SA 4.0 license and 3 tasks and 439 questions in the JMMLU_NC_ND folder under the CC BY-NC-ND 4.0 license.
+The JMMLU consists of 7,566 questions in the following 56 tasks (subjects). There are 53 tasks and 7,127 questions in the JMMLU folder under the CC BY-SA 4.0 license and 3 tasks and 439 questions in the JMMLU_NC_ND folder under the CC BY-NC-ND 4.0 license.
 
 | Japanese Task Name | English Task Name | Number |
 |---|---|---:|
