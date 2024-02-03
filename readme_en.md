@@ -1,5 +1,5 @@
 # JMMLU
-Japanese Multitask Language Understanding Benchmark
+Japanese Massive Multitask Language Understanding Benchmark
 
 
 [日本語🇯🇵](README.md)　| English🇬🇧 | [中文🇨🇳](readme_ch.md)
