@@ -4,13 +4,9 @@ Japanese Massive Multitask Language Understanding Benchmark
 
 [日本語🇯🇵](README.md)　| English🇬🇧 | [中文🇨🇳](readme_ch.md)
 
-JMMLU is a four-choice question set consisting of Japanese-translated questions of a portion of MMLU (Translated questions) and questions based on unique Japanese cultural context (Japanese questions). It is designed to assess the performance of large language models in Japanese.
+JMMLU is a four-choice question set consisting of Japanese-translated questions of a portion of MMLU([Paper](https://arxiv.org/abs/2009.03300),[Github](https://github.com/hendrycks/test)) (Translated questions) and questions based on unique Japanese cultural context (Japanese questions). It is designed to assess the performance of large language models in Japanese.
 
 For the translated questions, a maximum of 150 questions from each of the 57 MMLU tasks (subjects) were selected and first machine-translated into Japanese. Next, the translators checked the machine translations and removed questions and tasks that were difficult to translate, irrelevant, or inconsistent with the Japanese culture. The remaining questions were modified to make them fluent.
-#### MMLU 
-Paper: https://arxiv.org/abs/2009.03300
-
-Github: https://github.com/hendrycks/test?tab=readme-ov-file
 
 The Japanese questions are based on school subjects, such as Japanese civics and history, and are manually created by Japanese teachers.
 
