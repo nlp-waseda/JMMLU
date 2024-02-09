@@ -5,7 +5,7 @@
 [日本語🇯🇵](README.md) | [English🇬🇧](readme_en.md) | 中文🇨🇳
 
 
-JMMLU由MMLU([Paper](https://arxiv.org/abs/2009.03300),[Github](https://github.com/hendrycks/test))的日语翻译和基于日本独特文化背景的内容两部分构成的四选一问题基准测试。
+JMMLU由MMLU ([Paper](https://arxiv.org/abs/2009.03300), [Github](https://github.com/hendrycks/test))的日语翻译和基于日本独特文化背景的内容两部分构成的四选一问题基准测试。
 
 我们首先从MMLU的57项任务中每项最多选取150个问题机器翻译成日语。 然后由翻译人员检查机器翻译结果并删除难以翻译或与日本文化不相关或冲突的问题和任务。
 
