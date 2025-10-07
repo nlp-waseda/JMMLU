@@ -82,6 +82,29 @@ JMMLUは以下の56タスク(科目)、7,536問からなる。そのうち、CC 
 
 熟語、公民、日本地理の著作権はVIST学習塾が保有するものであり、ライセンスはCC BY-NC-ND 4.0である。ただし言語モデルの研究・評価における商業利用は許可されている。
 
+# How to Cite
+```
+@inproceedings{yin-etal-2024-respect,
+    title = "Should We Respect {LLM}s? A Cross-Lingual Study on the Influence of Prompt Politeness on {LLM} Performance",
+    author = "Yin, Ziqi  and
+      Wang, Hao  and
+      Horio, Kaito  and
+      Kawahara, Daisuke  and
+      Sekine, Satoshi",
+    editor = "Hale, James  and
+      Chawla, Kushal  and
+      Garg, Muskan",
+    booktitle = "Proceedings of the Second Workshop on Social Influence in Conversations (SICon 2024)",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.sicon-1.2/",
+    doi = "10.18653/v1/2024.sicon-1.2",
+    pages = "9--35"
+}
+```
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
