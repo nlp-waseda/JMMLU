@@ -84,6 +84,28 @@ JMMLU有如下56个任务（科目）， 7,536 个问题。其中在JMMLU文件�
 日语和世界历史的版权归 STEP Corporation 所有，除用于研究和评估语言模型外，禁止用于其他商业用途。
 
 日语成语、公民和日本地理的版权归VIST学习塾所有，采用 CC BY-NC-ND 4.0 许可证。仅允许研究和评估语言模型的商业用途。
+# How to Cite
+```
+@inproceedings{yin-etal-2024-respect,
+    title = "Should We Respect {LLM}s? A Cross-Lingual Study on the Influence of Prompt Politeness on {LLM} Performance",
+    author = "Yin, Ziqi  and
+      Wang, Hao  and
+      Horio, Kaito  and
+      Kawahara, Daisuke  and
+      Sekine, Satoshi",
+    editor = "Hale, James  and
+      Chawla, Kushal  and
+      Garg, Muskan",
+    booktitle = "Proceedings of the Second Workshop on Social Influence in Conversations (SICon 2024)",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.sicon-1.2/",
+    doi = "10.18653/v1/2024.sicon-1.2",
+    pages = "9--35"
+}
+```
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
